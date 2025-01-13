@@ -5,6 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctine)s]: [%(message)s]')
 
 list_of_files = [
+    "Data/"
     "src/__init__.py",
     "src/helper.py",
     "src/prompt.py",
